@@ -1,0 +1,12 @@
+name: "js-notebook"
+output:
+  html_document:
+    theme: darkly
+    highlight: pygments
+navbar:
+  title: "JS-Notebook"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html

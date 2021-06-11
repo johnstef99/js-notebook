@@ -1,0 +1,41 @@
+---
+title: "Notebook"
+---
+
+Εδώ θα προσπαθήσω να ανεβάσω ότι *εργασία* και *λυμένες ασκήσεις* έκανα κατά
+τις σποδές μου στο ΑΠΘ. Ξεκίνησα αυτό το notebook στο 4^ο^ έτος άρα αρκετά
+assignments των προηγούμενων ετών θα ανέβουν μόνο αν βρεθούν :)
+
+---------
+
+
+6^ο^ Εξάμηνο
+=============
+
+#### Δίκτυα Ι
+* [Java serial communications ](https://github.com/johnstef99/ithakiJavaSerialCommunication)
+
+#### Αρχιτεκτονική Προηγμένων Υπολογιστών
+* [ARM Bencmarks](https://github.com/johnstef99/computer_architecture)
+
+---------
+
+7^ο^ Εξάμηνο
+=============
+
+#### Δίκτυα ΙΙ
+* [Java network socket programming](https://github.com/johnstef99/networks_2)
+
+
+---------
+
+8^ο^ Εξάμηνο
+=============
+
+#### Επιχειριακή Έρευνα
+* [AMPL Assignment](https://notebook.johnstef.com/operational_research_ampl/)
+
+#### Κβαντική Φυσική
+* [Λυμένες Ασκήσεις](https://notebook.johnstef.com/quantum_physics_solved_problems/)
+(χρειάζεται μερικές διορθώσεις γιατί έγινε μετατροπή από latex και οι λύσεις
+δεν είναι 100% σωστές)
