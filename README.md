@@ -1,6 +1,6 @@
 # JS-Notebook
 
-[website](https://notebook.johnstef.com)
+Simple [website](https://notebook.johnstef.com) using Rmarkdown
 
 ## Requirements
 
