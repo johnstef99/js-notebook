@@ -5,7 +5,7 @@ account: johnstef
 server: js
 hostUrl: https://johnstef.com:3939/__api__
 appId: 11
-bundleId: 39
+bundleId: 47
 url: https://johnstef.com:3939/js-notebook/
-when: 1623411375.53942
-lastSyncTime: 1623411375.53943
+when: 1623947400.98605
+lastSyncTime: 1623947400.98606
