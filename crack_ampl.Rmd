@@ -14,7 +14,7 @@ date: 2021-06-17
    ![image](./crack_ampl/step_1.png)
 2. Hit the key **I** to import a file to the project and select the ampl binary
    ![image](./crack_ampl/step_2.png)
-3. Make sure you have the same options
+3. Make sure you have the same options<br>
    ![image](./crack_ampl/step_3.png)
 4. Ghidra will ask to analyze the code, hit yes and check the option
    **Decompiler Parameter ID**
@@ -38,8 +38,9 @@ date: 2021-06-17
 8. We need to apply this change on the binary, but if you try to change this
    file and **Export to binary** you will get an error when you try to run it.
    That is happening because we need to do the change on the line `004d832a` on
-   the raw binary and not here. So hit **I** to import a file and select the
-   ![image](./crack_ampl/step_8.png)
+   the raw binary and not here. So hit **I** to import a file and select
+   the<br>
+   ![image](./crack_ampl/step_8.png)<br>
    ampl binary again. But this time make sure the **Format is Raw Binary**.
 9. Now hit **G** and go to this address `000d832a` instead of `004d832a` because
    the **Binary** starts from `00000000` and the **ELF** from `00400000`. Now
