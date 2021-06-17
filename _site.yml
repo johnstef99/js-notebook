@@ -6,7 +6,7 @@ output:
 navbar:
   title: "JS-Notebook"
   left:
-    - text: "Home"
+    - text: "AUTH Notes"
       href: index.html
     - text: "About"
       href: about.html
