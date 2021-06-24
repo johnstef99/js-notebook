@@ -1,6 +1,11 @@
 ---
 title: "How to crack AMPL student version"
 date: 2021-06-17
+output:
+  html_document:
+    fig_width: 3
+    toc: true
+    toc_float: true
 ---
 
 ## Pre requirements
