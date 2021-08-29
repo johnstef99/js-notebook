@@ -34,11 +34,11 @@ assignments των προηγούμενων ετών θα ανέβουν μόν�
 =============
 
 #### Επιχειριακή Έρευνα
-* [AMPL Assignment](https://notebook.johnstef.com/operational_research_ampl/)
-  * [How to crack ampl student version](./crack_ampl.html)
+* [AMPL Assignment](assignments/operational_research/index.html)
+  * [How to crack ampl student version](crack_ampl.html)
 
 #### Κβαντική Φυσική
-* [Λυμένες Ασκήσεις](https://notebook.johnstef.com/quantum_physics_solved_problems/)
+* [Λυμένες Ασκήσεις](assignments/quantum_physics/index.html)
 (χρειάζεται μερικές διορθώσεις γιατί έγινε μετατροπή από latex και οι λύσεις δεν
 είναι 100% σωστές)
 
