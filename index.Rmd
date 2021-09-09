@@ -33,6 +33,11 @@ title: "JS-Notebook"
 * [AMPL Assignment](assignments/operational_research/index.html)
   * [How to crack ampl student version](crack_ampl.html)
 
+#### Εφαρμογές Τηλεπικοινωνιακών Διατάξεων
+* [Flex Sensor](https://github.com/johnstef99/groff-examples/tree/master/flex_sensor_pdf)
+  παράδειγμα χρήσης του εργαλείου [groff](https://www.gnu.org/software/groff/)
+  το οποίο δημιουργεί pdf όπως πχ. το latex.
+
 #### Κβαντική Φυσική
 * [Λυμένες Ασκήσεις](assignments/quantum_physics/index.html)
 (χρειάζεται μερικές διορθώσεις γιατί έγινε μετατροπή από latex και οι λύσεις δεν
