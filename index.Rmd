@@ -6,6 +6,14 @@ title: "JS-Notebook"
 
 ---------
 
+3^ο^ Εξάμηνο
+=============
+
+#### Δομές Δεδομένων
+* [Snake](https://github.com/johnstef99/data_structures_auth)
+
+---------
+
 4^ο^ Εξάμηνο
 =============
 
