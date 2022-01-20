@@ -6,19 +6,19 @@ title: "JS-Notebook"
 
 ---------
 
+2^ο^ Εξάμηνο
+=============
+
+#### Αντικειμενοστρεφής Προγραμματισμός
+* [MasterChef C++](https://github.com/johnstef99/oop-auth)
+
+---------
+
 3^ο^ Εξάμηνο
 =============
 
 #### Δομές Δεδομένων
 * [Snake](https://github.com/johnstef99/data_structures_auth)
-
----------
-
-4^ο^ Εξάμηνο
-=============
-
-#### Αντικειμενοστρεφής Προγραμματισμός
-* [MasterChef C++](https://github.com/johnstef99/oop-auth)
 
 ---------
 
@@ -60,6 +60,17 @@ title: "JS-Notebook"
 
 #### Τεχνολογία Λογισμικού
 * [Goal-dsl hackathon](https://github.com/johnstef99/goal-dsl-hackathon)
+
+---------
+
+9^ο^ Εξάμηνο
+=============
+
+#### Τεχνολογία Ήχου και Εικόνας
+* [Classification of Heart Sound Recordings](https://github.com/johnstef99/tech_of_sound_and_image)
+
+#### Βάσεις Δεδομένων
+* [GoT-DB](https://github.com/johnstef99/GoT-db-auth)
 
 <br/>
 <br/>
