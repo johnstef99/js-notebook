@@ -72,6 +72,9 @@ title: "JS-Notebook"
 #### Βάσεις Δεδομένων
 * [GoT-DB](https://github.com/johnstef99/GoT-db-auth)
 
+#### Βιομηχανική Πληροφορική
+* [Εργασία 2022 - Silo](https://drive.google.com/drive/folders/1oSPkj8ns8Ju46sB1Oqd6e721F65jyWk4?usp=sharing)
+
 <br/>
 <br/>
 <a
